@@ -1,0 +1,1 @@
+Este es el archivo User.java para practicar con .gitignore

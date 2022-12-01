@@ -1,0 +1,1 @@
+Este es el archivo Main.java para practicar con .gitignore
