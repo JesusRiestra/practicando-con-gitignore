@@ -1,0 +1,16 @@
+# Ignorar archivos Screen1.java, Screen2.java, Screen3.java
+Screen?.java
+
+# Ignorar todos los archivos de la carpeta data2 excepto data01.csv
+data2/*
+!data01.csv
+
+# Ignorar todos los archivos con extensión tmp solo de la carpeta raiz
+/*.tmp
+
+# Ignorar todo el contenido de la carpeta config de la carpeta raiz
+config/
+
+# Ignorar todos los archivos con extensión dat, excepto los de la carpeta raiz
+*.dat
+!/*.dat
