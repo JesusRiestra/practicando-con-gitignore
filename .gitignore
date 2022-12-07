@@ -14,3 +14,14 @@ config/
 # Ignorar todos los archivos con extensión dat, excepto los de la carpeta raiz
 *.dat
 !/*.dat
+
+
+
+
+
+#Ignorar los archivos Main.class y User.class
+Main.class
+User.class
+
+#Ignorar archivo passwords.dat
+passwords.dat
